@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ab51faeb-ee66-4f86-ae3d-3fc40ca3f285",
+    "title": "Buy groceries",
+    "description": "Get rice, dal, chhas.",
+    "status": "completed"
+  },
+  {
+    "id": "d0479f6b-5905-41c3-a576-a54129f884ae",
+    "title": "make dinner at 7:30 pm",
+    "description": "make kadhi, khichadi, roti",
+    "status": "completed"
+  },
+  {
+    "id": "413fbbb5-c175-4c34-b799-90be74f400b0",
+    "title": "wash dishes",
+    "description": "wash dishes before 10 pm so that I can sleep at right time.",
+    "status": "completed"
+  }
+]
